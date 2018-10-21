@@ -1,9 +1,7 @@
 # cohesicChallenge
-
-# INSTRUCTIONS
-ECLIPSE
+RUNNING ON ECLIPSE
 - This is am Eclipse project, so you can import the code into Eclipse at the repository https://github.com/a33howell/cohesicChallenge.git
-COMMAND PROMPT
+RUNNING WITH COMMAND PROMPT
 - If you can't import the project into Eclipse, look for the source code in src/cohesicChallenge.  "AnatomicalHierarchy.java" and "Node.java" are the only important files.
 - Compile everything with "javac *.java"
 - Run AnatomicalHieararchy.java with "java AnatomicalHierarchy", no arguments are required
